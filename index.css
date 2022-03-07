@@ -1,0 +1,43 @@
+/*Navbar*/
+.nav li{
+    padding: 0 20px;
+  }
+  
+  .nav a{
+    color: #898989;
+    transition: color 1s;
+  }
+  
+  .nav a:hover{
+    color: rgba(33,33,33,0.87);
+  }
+  
+  .nav li:nth-child(odd){
+    background-color: #cccccc;
+  }
+  
+  .nav li:nth-child(even){
+    background-color: #f8f8f8;
+  }
+  /*End of Navbar*/
+  
+  
+  
+  /* projects */
+  
+  
+  /* end of projects */
+  
+  #resume{
+    text-align: center;
+    font-size: 50px;
+    color: khaki;
+  
+  }
+  
+  /* contacts */
+  #send-btn{
+    margin-top: 20px;
+    margin-left: 500px;
+    text-align: center;
+  }
